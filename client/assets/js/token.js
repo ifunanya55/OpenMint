@@ -1,5 +1,5 @@
-Moralis.initialize(""); // Application id from moralis.io
-Moralis.serverURL = ''; //Server url from moralis.io
+Moralis.initialize("https://undhzl8r7aym.usemoralis.com:2053/server"); // Application id from moralis.io
+Moralis.serverURL = 'AoMPSVgQKKY8qNgwNM087UN3pYP3du50NwmWnHtN'; //Server url from moralis.io
 
 const BASE_URL = "https://api.coingecko.com/api/v3";
 const ETH_USD_PRICE_URL = "/simple/price?ids=ethereum&vs_currencies=usd";
